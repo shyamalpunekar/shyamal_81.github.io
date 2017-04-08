@@ -1,0 +1,82 @@
+html {
+  height: 100%;
+}
+
+body {
+  width: 800px;
+  height: 100%;
+}
+
+header {
+  background-color: #605c4d;
+  color: white;
+  padding: 5px;
+  font-size: 24px;
+  font-family: Helvetica;
+  text-align: center;
+  display: block;
+}
+
+nav {
+  float: left;
+  font-size: 20px;
+  width: 100%;
+  background-color: grey;
+
+
+}
+
+nav ul {
+  padding: ;
+  float: left;
+}
+
+nav li {
+  float: left;
+}
+
+nav li a {
+  display: block;
+  height: 25px;
+  padding: 12px 18px 8px 18px;
+  vertical-align: middle;
+  color: white;
+}
+
+a {
+  color: ;
+}
+p {
+  padding: 20px;
+}
+section {
+  width: 65%;
+  display: inline-block;
+  float: left;
+}
+img {
+  width: 500px;
+}
+.kids {
+  width: 200px;
+}
+aside {
+  width: 25%;
+  display: inline-block;
+  background-color:;
+  padding-top: 15px;
+  min-height: 100%;
+  padding-left: 10px;
+}
+
+aside ul {
+  list-style-type: none;
+}
+
+footer {
+  width: 790px;
+  background-color:;
+  color:;
+  clear: both;
+  display: block;
+}

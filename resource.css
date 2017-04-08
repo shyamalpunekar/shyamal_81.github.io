@@ -1,0 +1,84 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add! */
+/**{
+  border: solid red 1px;
+
+}*/
+html {
+  height: 100%;
+}
+
+body {
+  width: 800px;
+  height: 100%;
+}
+
+h1 {
+  background-color: yellow;
+  color: blue;
+  font-size: 36px;
+  display: block;
+}
+
+img{
+  display: block;
+  margin:auto;
+  width:40%;
+}
+
+nav {
+  float: left;
+}
+
+nav ul {
+  float: left;
+  border-bottom:5px ;
+  list-style-type: none;
+}
+
+nav li {
+  border: solid blue 1px;
+  float: left;
+}
+
+nav li a {
+  display: block;
+  height: 25px;
+  padding: 12px 18px 8px 18px;
+  vertical-align: middle;
+}
+
+a {
+  color: blue;
+}
+section img {
+  width: 73%;
+  display: inline-block;
+  float: right;
+}
+section {
+  width: 50%;
+  display: inline-block;
+  float: right;
+}
+
+aside {
+  width: 17%;
+  display: inline-block;
+  background-color:red;
+  padding:;
+  min-height: 100%;
+}
+
+aside ul {
+  list-style-type: none;
+}
+
+footer {
+  width: 790px;
+  background-color: yellow;
+  color:red;
+  clear: both;
+  display: block;
+}
